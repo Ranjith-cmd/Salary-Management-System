@@ -22,12 +22,11 @@ The Salary Management System deals with the financial aspects of employee’s sa
 - MySQL WorkBench
 - JDK 1.8
 # Roles / Responsibilities::
--Gathered and Analyzed Requirements for the Project.
--Worked on Eclipse,MySQL Workbench and JUnit for Development.
--Used Maven as a Project Management Tool to handle dependencies inside the Application.
--Done the User Validations for **Admin and Employee**.
--Created Login as Admin and give Access to do CRUD Operations.
--Created Login as Employee and give Access to Respective Employee to get payslip using Employee Id.
--Use JDBC ,MySQL to Store Data and Utilized  JDBC driver to connect that Servlet to the database Layer.
--Tested the quality using JUnit.
+- Gathered and Analyzed Requirements for the Project.
+- Used Maven as a Project Management Tool to handle dependencies inside the Application.
+- Done the User Validations for **Admin and Employee**.
+- Created Login as Admin and give Access to do CRUD Operations.
+- Created Login as Employee and give Access to Respective Employee to get payslip using Employee Id.
+- Use JDBC ,MySQL to Store Data and Utilized  JDBC driver to connect that Servlet to the database Layer.
+- Tested the quality using JUnit.
 
